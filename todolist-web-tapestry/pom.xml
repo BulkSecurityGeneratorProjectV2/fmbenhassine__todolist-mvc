@@ -67,7 +67,7 @@
         <repository>
             <id>devlab722-repo</id>
             <url>
-                http://nexus.devlab722.net/nexus/content/repositories/releases
+                https://nexus.devlab722.net/nexus/content/repositories/releases
             </url>
             <snapshots>
                 <enabled>false</enabled>
